@@ -1,16 +1,11 @@
 # apexcify_technologys_profile_card
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overview:
+This is a simple, visually clean Flutter application designed to display personal information in a modern, card-based format. 
+The goal is to present key profile details (name, profession, and contact information) using a minimal and aesthetically pleasing user interface.
+Features:
+Circular Profile Image: Prominently displays the user's image using a CircleAvatar.
+Card Layout: Uses the Card widget to group profile details, adding depth and focus.
+Clear Hierarchy: Separates primary information (Name, Profession) from contact details using visual spacing and separators.
+Contact Info Rows: Uses Container and Icon widgets to clearly display email and phone number.
+Minimal Styling: Utilizes a simple color palette (Teal) for a clean, professional look.
+![WhatsApp Image 2025-12-14 at 22 01 52_7dac3e78](https://github.com/user-attachments/assets/86560859-79ad-42f6-96f2-e81c23add5b9)
